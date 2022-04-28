@@ -1,3 +1,3 @@
 # 我的学术主页
 
-**My howepage:** http://mathfinance.sdu.edu.cn/sz/yjyjs1/hy_yjy/jbxx.htm
+**My howepage:** https://faculty.sdu.edu.cn/heyong/zh_CN/index.htm
